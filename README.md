@@ -1,6 +1,6 @@
-# Spotify Playlist Creator
+# Spotify Playlist Generator
 
-The Spotify Playlist Creator allows the user to generate a Spotify playlist based on a starting artist. After the artist is choosen a group of related artists will be given to the user to choose from. Once finished selecting related artists to keep, a playlist will be genereated based on the selected artists top tracks for the user on their Spotify profile.
+The Spotify Playlist Generator allows the user to generate a Spotify playlist based on a starting artist. After the artist is choosen a group of related artists will be given to the user to choose from. Once finished selecting related artists to keep, a playlist will be genereated based on the selected artists top tracks for the user on their Spotify profile.
 
 # Motivation
 The main purpose of this project was to expand and show my understanding of how to use React, UI libaries such as Bootstrap, and the use of APIs like the Spotify API. 
