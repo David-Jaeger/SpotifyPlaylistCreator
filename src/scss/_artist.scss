@@ -1,0 +1,16 @@
+.artist {
+    display: flex;
+    flex-direction: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.artist-button {
+    margin: 10px;
+}
+
+.artist-toggle {
+    margin: 10px;
+    cursor: pointer;
+}

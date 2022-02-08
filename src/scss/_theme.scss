@@ -1,0 +1,12 @@
+$theme-colors: (
+    "primary": #1db954,
+    "light-primary": #1ed760,
+    "background": #181818,
+    "card": #282828,
+    "light-grey": #535353,
+    "test": #121212,
+    "white": #ffffff,
+    "light-white-text": #b3b3b3
+);
+
+@import "~bootstrap/scss/bootstrap";

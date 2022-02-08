@@ -1,0 +1,14 @@
+.list-group {
+    box-shadow: 0 2px 7px 5px theme-color("test");
+}
+
+.list-group-item {
+    background: theme-color("card");
+    color: theme-color("white");
+}
+
+.list-group-item:hover {
+    background: theme-color("light-primary");
+    color: theme-color("white");
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.card {
+    margin: 1rem;
+    box-shadow: 0 2px 7px 5px theme-color("test");
+}
+
+.card img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 330px;
+    height: 330px;
+    padding: 20px 20px 5px;
+}
+
+.card-info {
+    color: theme-color("light-white-text");
+    display: block;
+    font-size: 1.17em;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+
+.card-tracks {
+    border: none;
+}

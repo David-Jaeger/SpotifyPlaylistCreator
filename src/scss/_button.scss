@@ -1,0 +1,20 @@
+.btn {
+    letter-spacing: 1px;
+    color: theme-color("white");
+    border-radius: 20em;
+    font-weight: bold;
+    //background-color: map-get($theme-colors, "danger");
+    //background-color: theme-color("light-primary");
+}
+
+.btn:hover {
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: theme-color("white");
+    border-radius: 20em;
+    //background-color: map-get($theme-colors, "danger");
+    background-color: theme-color("light-primary");
+    transform: scale(1.04, 1.04);
+    -webkit-transform: scale(1.04, 1.04);
+    -moz-transform: scale(1.04, 1.04);
+}
